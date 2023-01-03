@@ -1,0 +1,17 @@
+:root {
+    --main-background: red;
+    --text: white;
+}
+
+#bannerSVG {
+    /* background: var(--main-background) !important; */
+}
+
+html {
+    background: #09073a;
+    scrollbar-gutter: unset;
+}
+
+.bg-main {
+    /* background: green; */
+}
